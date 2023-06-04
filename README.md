@@ -50,7 +50,7 @@ print(norm_of_matrix)
 
 <br>
 
-### Infinity Norm of a Matrix
+### 3-Infinity Norm of a Matrix
 ![MAI INFNORM](https://github.com/BALA291/Norm-of-a-matrix/assets/120717501/63f44ff0-b7a2-4fa6-ae92-45feb6fbdaf6)
 
 <br>
